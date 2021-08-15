@@ -21,9 +21,5 @@ public class seleniumTest {
 		System.out.println("seleniumPart1");
 	}
 	
-	@Test
-	public void seleniumPart4() {
-		System.out.println("seleniumPart1");
-	}
 	
 }
