@@ -15,5 +15,11 @@ public class appiumTest {
 	public void iosLogin() {
 		System.out.println("iosLogin");
 	}
+	
+	
+	@Test
+	public void iosLogin1() {
+		System.out.println("iosLogin");
+}
 
 }

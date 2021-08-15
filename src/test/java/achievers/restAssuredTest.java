@@ -16,5 +16,12 @@ public class restAssuredTest {
 	public void restPart2() {
 		System.out.println("restPart2");
 	}
+	
+	
+
+	@Test
+	public void restPart3() {
+		System.out.println("restPart2");
+	}
 
 }
