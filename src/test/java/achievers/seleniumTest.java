@@ -22,4 +22,10 @@ public class seleniumTest {
 	}
 	
 	
+	@Test
+	public void seleniumPart4() {
+		System.out.println("seleniumPart1");
+	}
+	
+	
 }

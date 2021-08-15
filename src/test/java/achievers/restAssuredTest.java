@@ -23,5 +23,11 @@ public class restAssuredTest {
 	public void restPart3() {
 		System.out.println("restPart2");
 	}
+	
+
+	@Test
+	public void restPart4() {
+		System.out.println("restPart2");
+	}
 
 }
