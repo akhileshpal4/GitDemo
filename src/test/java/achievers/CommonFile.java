@@ -7,5 +7,6 @@ public class CommonFile {
     public void method(){
         System.out.println("Rupali");
         System.out.println("Kumar");
+        System.out.println("Pal");
     }
 }
