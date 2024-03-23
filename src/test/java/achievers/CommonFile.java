@@ -6,6 +6,7 @@ public class CommonFile {
     @Test
     public void method(){
         int j=12;
+        int i=10;
         System.out.println("Rupali");
         System.out.println("Kumar");
         System.out.println("Pal");
