@@ -8,5 +8,6 @@ public class CommonFile {
         int i=10;
         System.out.println("Rupali");
         System.out.println("Kumar");
+        System.out.println("Pal");
     }
 }
